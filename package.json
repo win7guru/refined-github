@@ -68,7 +68,7 @@
 		"image-promise": "^7.0.1",
 		"indent-textarea": "^4.0.0",
 		"js-abbreviation-number": "^1.4.0",
-		"linkedom": "^0.16.1",
+		"linkedom": "^0.18.0",
 		"linkify-issues": "^3.0.1",
 		"linkify-urls": "^4.1.0",
 		"memoize": "^10.0.0",
